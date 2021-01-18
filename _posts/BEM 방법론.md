@@ -1,3 +1,8 @@
+---
+title: "BEM 방법론"
+categories: post
+---
+
 BEM 방법론에 대해
 [BEM - Block Element Modifier](http://getbem.com/introduction/)
 

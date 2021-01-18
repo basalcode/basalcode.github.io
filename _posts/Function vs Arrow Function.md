@@ -1,3 +1,8 @@
+---
+title: "Function vs Arrow Function"
+categories: post
+---
+
 # Function
 
 this의 위치가 동적으로 바인딩 된다.

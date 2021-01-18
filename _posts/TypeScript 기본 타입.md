@@ -6,6 +6,11 @@
 let isDone: boolean = false;
 ```
 
+---
+title: "TypeScript 기본 타입"
+categories: post
+---
+
 ## Number
 
 ```jsx
