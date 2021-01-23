@@ -1,0 +1,8 @@
+---
+title: "테이블 컬럼 조회하는 SQL 쿼리"
+categories: post
+---
+
+SELECT COLUMN_NAME
+FROM INFORMATION_SCHEMA.COLUMNS
+WHERE TABLE_NAME = 'TB_WALK_BOARD'
