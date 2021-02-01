@@ -64,3 +64,23 @@ searchElement 인자가 위치한 배열의 첫 인덱스를 리턴해준다. (�
 start 인덱스의 요소부터 deleteCount 만큼의 요소를 삭제하고 item의 값으로 치환한다.
 
 array.splice() 를 하게 되면 복제된 새 배열이 나온다.
+
+# a.reverse()
+
+배열a를 거꾸로 뒤집는다.
+
+# arr.join([separator])
+
+배열의 요소 사이 사이에 separator를 추가한 문자열로 만들어준다.
+
+# arr.keys()
+
+배열의 각 인덱스를 키값으로 가지는 새로운 이터레이터 객체를 리턴한다.
+
+# arr.values()
+
+배열의 각 인덱스에 대한 값을 가지는 새로운 이터레이터 객체를 리턴한다.
+
+# arr.filter(callback(element[, index[, array]])[, thisArg])
+
+callback 함수에 각 인자의 값을 넣어 통과하는 값들만 배열로 만들어 리턴한다.
