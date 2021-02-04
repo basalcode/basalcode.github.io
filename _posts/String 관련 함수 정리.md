@@ -45,3 +45,19 @@ str 문자열과 일치하는 첫번 째 인자를 찾아 새로운 값으로 �
 # const newStr = str.replaceAll(regexp|substr, newSubstr|function)
 
 str 문자열과 일치하는 모든 인자를 찾아 새로운 값으로 치환하거나 해당 인자를 매개변수로 전달하는 함수를 호출해 처리한다.
+
+# str.search(regexp)
+
+str 문자열에서 인자로 주어진 정규 표현식과 일치하는 값의 첫 인덱스를 리턴한다.
+
+# str.slice(beginIndex[, endIndex])
+
+str 문자열에서 주어진 시작 인덱스와 종료 인덱스 사이의 값만 추출해 리턴한다.
+
+# str.split([separator[, limit]])
+
+str 문자열에서 주어진 인자가 포함된 단위로 나눠 남은 문자열들의 배열을 리턴한다.
+
+# str.trim()
+
+str 문자열에서 공백을 제거한 문자열을 리턴한다.
