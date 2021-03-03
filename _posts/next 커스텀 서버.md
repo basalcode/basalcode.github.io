@@ -27,3 +27,5 @@ app.prepare().then(() => {
     console.log('> Ready on http://localhost:3000')
   })
 })
+
+경로관련해서 Next는 pages폴더가 기본이 된다.
